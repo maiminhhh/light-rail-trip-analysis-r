@@ -16,7 +16,7 @@ This project uses R-based exploratory data analysis and statistical testing to e
 
 ## 🗺️ Live Output
 View the interactive or rendered report here:  
-🌐 [https://maiminhhh.github.io/light-rail-trip-analysis-r/](https://maiminhhh.github.io/light-rail-trip-analysis-r/)
+🌐 [Click here to view the full report](https://maiminhhh.github.io/light-rail-trip-analysis-r/)
 
 ---
 
